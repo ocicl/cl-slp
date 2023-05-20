@@ -1,0 +1,9 @@
+* cl-slp
+
+Common Lisp FFI bindings to OpenSLP library
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/fjames86/cl-slp.git |
+| commit  | dd6f769                                    |
+| systems | cl-slp                                     |
+|---------+--------------------------------------------|
