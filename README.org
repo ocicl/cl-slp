@@ -7,3 +7,4 @@ Common Lisp FFI bindings to OpenSLP library
 | commit  | dd6f769                                    |
 | systems | cl-slp                                     |
 |---------+--------------------------------------------|
+ 
